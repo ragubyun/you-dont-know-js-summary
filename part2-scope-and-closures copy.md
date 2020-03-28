@@ -8,4 +8,4 @@
 
 ### [4. 호이스팅](./part2/4-hoisting.md)
 
-### 5. 스코프 클로저
+### [5. 스코프 클로저](./part2/5-scope-closure.md)
